@@ -1,0 +1,7 @@
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\Locking\bin\Debug\Locking.exe.config
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\Locking\bin\Debug\Locking.exe
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\Locking\bin\Debug\Locking.pdb
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\Locking\obj\Debug\Locking.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\Locking\obj\Debug\Locking.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\Locking\obj\Debug\Locking.exe
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\Locking\obj\Debug\Locking.pdb

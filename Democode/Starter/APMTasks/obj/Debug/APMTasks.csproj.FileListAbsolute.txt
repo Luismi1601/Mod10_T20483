@@ -1,0 +1,14 @@
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\bin\Debug\APMTasks.exe.config
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\bin\Debug\APMTasks.exe
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\bin\Debug\APMTasks.pdb
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\APMTasks.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\MainWindow.baml
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\MainWindow.g.cs
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\App.g.cs
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\APMTasks_MarkupCompile.cache
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\APMTasks.g.resources
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\APMTasks.Properties.Resources.resources
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\APMTasks.csproj.GenerateResource.cache
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\APMTasks.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\APMTasks.exe
+C:\Curso\20483\Luismi\Tareas\Mod10_T20483\Democode\Starter\APMTasks\obj\Debug\APMTasks.pdb
